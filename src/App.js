@@ -11,11 +11,18 @@ import { EducationalBackground } from './components/EducationalBackground';
 import { Training } from './components/Training';
 import { Accomplishments } from './components/Accomplishments';
 import VideoBackground from './components/VideoBackground';
+import MouseParticles from 'react-mouse-particles';
+
 
 function App() {
   return (
     <div className="App">
-      
+       <MouseParticles
+        g={1}
+        color="random"
+        cull="col,image-wrapper"
+        level={6}
+      />
       <VideoBackground/>
       <NavBar />
       <Banner />

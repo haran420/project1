@@ -62,7 +62,7 @@ export const Banner = () => {
             <TrackVisibility>
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
-                <span className="tagline">Welcome back!</span>
+                <span className="tagline tagline-alt">Welcome back!</span><br></br>
                   <h1>{`Hi! I'm Hari Haran,`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Full Stack Java Developer", "Java Developer", "Software Developer"]'><span className="wrap">{text}</span></span></h1>
                   <p>Recent graduate passionate about Software development, Currently working as a Vue Js Developer. Ready to Innovate and Collaborate </p>
                   <button onClick={handleClick}>Let’s Connect <ArrowRightCircle size={25} /></button>

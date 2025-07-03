@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://haran420.github.io/profile",
+  "homepage": " https://gitlab.com/harivip147-group/portfolio.git",
   "dependencies": {
     "@formfacade/embed-react": "^1.1.2",
     "@testing-library/dom": "^10.4.0",
@@ -15,12 +15,16 @@
     "react-bootstrap": "^2.10.10",
     "react-bootstrap-icons": "^1.11.6",
     "react-dom": "^19.1.0",
+    "react-mouse-particles": "^1.1.5",
     "react-multi-carousel": "^2.8.6",
     "react-on-screen": "^2.1.1",
-    "react-router-dom": "^6.30.0",
+    "react-router-dom": "^7.6.1",
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "^5.0.1",
+    "react-slick": "^0.30.3",
     "rimraf": "^6.0.1",
+    "semver": "^7.7.2",
+    "slick-carousel": "^1.8.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

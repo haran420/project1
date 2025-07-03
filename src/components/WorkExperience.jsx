@@ -60,7 +60,7 @@ export const WorkExperience = () => {
           </Col>
         </Row>
       </Container>
-      <img className="background-image-right" src={colorSharp2}></img>
+      <img className="position-absolute" src={colorSharp2} alt="background"></img>
     </section>
   )
 }
