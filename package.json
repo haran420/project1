@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://gitlab.com/harivip147-group/portfolio.git",
+  "homepage": "https://github.com/haran420/reactport.git",
   "dependencies": {
     "@formfacade/embed-react": "^1.1.2",
     "@testing-library/dom": "^10.4.0",
